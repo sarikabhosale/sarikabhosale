@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Sarika Bhosale
 
-<!--
-**sarikabhosale/sarikabhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about turning raw data into meaningful insights using Data Analytics tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Data Analytics
+- 📊 Interested in Business Analytics
+- 💻 Learning SQL, Python, Excel & Power BI
+- 🤖 Exploring AI and Automation
+- 🎯 Looking for Data Analyst opportunities
+
+---
+
+## 🛠 Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Statistics
+- Data Visualization
+
+---
+
+## 📂 Projects Coming Soon
+
+📈 Sales Dashboard
+
+📊 HR Analytics Dashboard
+
+🛒 E-commerce Sales Analysis
+
+🤖 AI Resume Screening
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn: *(https://www.linkedin.com/in/sarikabhosale/)*
+
+Email: sarikabhosale8898@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
